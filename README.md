@@ -22,7 +22,7 @@ A robust, CLI-based Shop Management System built with **Python** and **MySQL**. 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/raghavshivhare/PyShopSystem.git](https://github.com/raghavshivhare/PyShopSystem.git)
+    git clone https://github.com/raghavshivhare/PyShopSystem.git
     cd PyShopSystem
     ```
 
@@ -77,3 +77,4 @@ This project is for **educational and portfolio purposes only**.
 * **Brand Names:** All product names, trademarks, and registered trademarks (such as Apple, Samsung, Dell, etc.) cited in the sample database are property of their respective owners. They are used in this project solely for the purpose of demonstrating the inventory management features.
 * **No Affiliation:** The use of these names does not imply any affiliation with or endorsement by these companies.
 * **Data:** All customer data (names, phones, emails) generated during usage should be treated as dummy data for testing.
+
